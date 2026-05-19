@@ -1,8 +1,5 @@
 # We’re Hiring: Infra Automation Dev / Automation Team Engineer
 
-## Company
-:contentReference[oaicite:0]{index=0} is looking for an experienced Infrastructure Automation Developer / Automation Team Engineer to join our growing technology team.
-
 ## Location
 Phoenix, AZ, USA (Hybrid)
 
